@@ -1,2 +1,4 @@
-# Maze
-Maze game project
+# Maze game project - Python
+
+## Design:
+![Screenshot](design.png)
